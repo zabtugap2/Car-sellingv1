@@ -1,0 +1,5 @@
+body{font-family: Arial, sans-serif; margin:20px;}
+header{display:flex; justify-content:space-between; align-items:center;}
+.cards{display:flex; flex-wrap:wrap; gap:16px;}
+.card{border:1px solid #ddd; padding:12px; width:240px; border-radius:6px;}
+.card img{display:block; margin-bottom:8px; max-height:140px; object-fit:cover;}
